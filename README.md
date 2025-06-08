@@ -11,3 +11,6 @@ Another limit is desctop and Icon possitioning, this will be solved in Multidriv
 
 # Good to know
 As for now EAS is -Only- for penguin mod so sprite files have to be in a compatible format, e.g. .pms files. 
+
+# !!!IMPORTANT!!!
+Check the wiki for more info at: https://github.com/TheManOnPi/Easy-App-Store-EAS-/wiki
