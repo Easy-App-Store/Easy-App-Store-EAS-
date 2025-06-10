@@ -1,0 +1,1 @@
+["v1.0-a|https://raw.githubusercontent.com/TheManOnPi/Easy-App-Store-EAS-/main/Stuff_for_server_updater/betaVersions/EAS_MAIN-0.1-broken%20(1).pms"]
